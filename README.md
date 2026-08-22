@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hashir Rizwan
 
-<!--
-**hashir107/hashir107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Product Leader | Strategy & Execution for Intelligent Operational Systems**
 
-Here are some ideas to get you started:
+I build AI-enabled products at the intersection of **product, data, and engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on turning complex operational problems into practical AI systems — from problem framing and product decisions to prototyping, evaluation, and production rollout.
+
+### Areas I’m exploring
+
+- AI agents and agentic workflows
+- LLM evaluation and reliability
+- Human-in-the-loop AI systems
+- Data products and operational automation
+
+### How I work
+
+**Problem → Product hypothesis → Prototype → Evaluate → Production**
+
+I’m especially interested in AI systems where correctness, explainability, workflow design, and operational impact matter more than simply generating text.
+
+### Current direction
+
+I’m building and documenting practical experiments around intelligent operational systems, including AI-assisted decision making, agent evaluation, and RAG-based workflows.
+
+### Background
+
+My earlier engineering work includes semantic web technologies, knowledge graphs, graph analytics, data modeling, and backend systems. That technical foundation now shapes how I approach AI product development: understanding not only *what* to build, but also how the underlying system should behave.
+
+---
+
+**Focus:** AI Products · AI Agents · RAG · Evaluation · Data Products · Operational AI
