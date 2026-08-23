@@ -31,11 +31,11 @@ I test the riskiest assumptions early and evaluate the product across **value, u
 ### AI-assisted Investment Operations
 A portfolio project exploring how AI can support investment operations across document ingestion, financial reconciliation, anomaly detection, distribution workflows, and investor reporting.
 
-### Agent Evaluation Playground
-Experiments around evaluating AI agents beyond basic prompt quality — including accuracy, false positives, abstention, latency, cost, and reliability.
-
 ### Operational AI
 I’ve worked on AI-assisted decision systems for complex logistics workflows, including tracking-event classification, anomaly detection, retrieval over operational knowledge, and human-in-the-loop review.
+
+### Agent Evaluation Playground
+Experiments around evaluating AI agents beyond basic prompt quality — including accuracy, false positives, abstention, latency, cost, and reliability.
 
 ## Background
 
